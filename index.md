@@ -1,4 +1,4 @@
-## Bearded Python - Programming, Software & Tech Blog
+## Bearded Python
 
 This is just test text!
 
